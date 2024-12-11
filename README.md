@@ -5,6 +5,7 @@
  - [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/). Link to the [challenges accompanying the blog post](https://github.com/sylwia-budzynska/codeql-zero-to-hero/tree/main/1)
  - [CodeQL zero to hero part 2: getting started with CodeQL](https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/). Link to the [challenges accompanying the blog post](https://github.com/GitHubSecurityLab/codeql-zero-to-hero/tree/main/2)
  - [CodeQL zero to hero part 3: security research](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/). Link to the [challenges accompanying the blog post](https://github.com/GitHubSecurityLab/codeql-zero-to-hero/tree/main/3)
+ - [CodeQL zero to hero part 4: Gradio case study]([https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/)). Link to the [challenges accompanying the blog post](https://github.com/GitHubSecurityLab/codeql-zero-to-hero/tree/main/4)
 
 Most of my advisories are published on GitHub Security Lab's website, together with other great researchers from GitHub. Check out our work at [securitylab.github.com/advisories](https://securitylab.github.com/advisories/).
 
